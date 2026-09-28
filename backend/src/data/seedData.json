@@ -1,0 +1,277 @@
+{
+  "categories": [
+    {
+      "name": "Kurti",
+      "image": "https://i.pinimg.com/1200x/11/f6/86/11f68658de59f298a15e8ce0f45f1a1e.jpg"
+    },
+    {
+      "name": "Saree",
+      "image": "https://i.pinimg.com/originals/0d/d7/1e/0dd71e40b1ccd1fe930bc75f0244f8cb.png"
+    },
+    {
+      "name": "Western Wear",
+      "image": "https://i.pinimg.com/1200x/03/51/af/0351af2965cb93da994845c5fd2b6d5e.jpg"
+    },
+    {
+      "name": "Dresses",
+      "image": "https://i.pinimg.com/736x/25/d7/2f/25d72f2af29eb296443a5f7c752961f4.jpg"
+    },
+    {
+      "name": "Accessories",
+      "image": "https://i.pinimg.com/1200x/5d/f8/74/5df8744dd8c56d4b8b1d72baf4f8f08b.jpg"
+    }
+  ],
+  "products": [
+    {
+      "name": "Banarasi Silk Saree",
+      "category": "Saree",
+      "price": 4999,
+      "oldPrice": 7500,
+      "rating": 4.8,
+      "reviews": 124,
+      "image": "https://i.pinimg.com/736x/81/58/7a/81587ad2b323cd2aa8a92fd761429fcf.jpg",
+      "description": "Elegant Banarasi silk saree with intricate gold zari work. Perfect for weddings and festive occasions. Comes with a matching blouse piece.",
+      "sizes": [
+        "Free Size"
+      ],
+      "isFeatured": true,
+      "isNew": true
+    },
+    {
+      "name": "Embroidered Cotton Kurti",
+      "category": "Kurti",
+      "price": 1299,
+      "oldPrice": 2200,
+      "rating": 4.5,
+      "reviews": 89,
+      "image": "https://i.pinimg.com/736x/c9/06/70/c906704ebcd6078cdcd682056b370dce.jpg",
+      "description": "Comfortable cotton kurti with beautiful thread embroidery on the neckline. Ideal for daily wear and office use.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "isFeatured": true
+    },
+    {
+      "name": "Floral Summer Dress",
+      "category": "Dresses",
+      "price": 2499,
+      "oldPrice": 3800,
+      "rating": 4.6,
+      "reviews": 67,
+      "image": "https://i.pinimg.com/736x/0c/ce/72/0cce722a2bc06405a7a5d4ccb1b885d9.jpg",
+      "description": "Light and breezy floral summer dress with a flattering fit. Made from soft rayon fabric that keeps you cool all day.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "isFeatured": true,
+      "isNew": true
+    },
+    {
+      "name": "Classic Blue Denim Dress",
+      "category": "Western Wear",
+      "price": 2799,
+      "oldPrice": 4200,
+      "rating": 4.4,
+      "reviews": 52,
+      "image": "https://i.pinimg.com/736x/17/9b/c3/179bc3eceb33a1411ff26c993f7b960f.jpg",
+      "description": "A timeless blue denim dress that pairs effortlessly with any occasion. Features a tailored fit and premium denim fabric.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "isFeatured": true
+    },
+    {
+      "name": "Pearl Statement Necklace",
+      "category": "Accessories",
+      "price": 899,
+      "oldPrice": 1500,
+      "rating": 4.7,
+      "reviews": 143,
+      "image": "https://i.pinimg.com/736x/06/6f/c0/066fc0346005b8263c57dfbced168519.jpg",
+      "description": "Elegant pearl statement necklace that adds a touch of sophistication to any outfit. Hypoallergenic and tarnish-free.",
+      "sizes": [
+        "Free Size"
+      ],
+      "isNew": true
+    },
+    {
+      "name": "Red Banarasi Saree",
+      "category": "Saree",
+      "price": 5499,
+      "oldPrice": 8200,
+      "rating": 4.9,
+      "reviews": 98,
+      "image": "https://i.pinimg.com/736x/89/a0/26/89a0265463be476a0dae49f3f4eb498e.jpg",
+      "description": "Stunning red Banarasi saree with traditional motifs. A timeless piece for special occasions and cultural celebrations.",
+      "sizes": [
+        "Free Size"
+      ],
+      "isFeatured": true
+    },
+    {
+      "name": "Anarkali Suit Set",
+      "category": "Kurti",
+      "price": 3299,
+      "oldPrice": 5500,
+      "rating": 4.6,
+      "reviews": 76,
+      "image": "https://i.pinimg.com/736x/02/60/1e/02601e29d28ab12258373dea0499b3cc.jpg",
+      "description": "Graceful Anarkali suit set with dupatta and churidar. Features rich embroidery and a flowing silhouette.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "isNew": true
+    },
+    {
+      "name": "Black Evening Gown",
+      "category": "Dresses",
+      "price": 3999,
+      "oldPrice": 6500,
+      "rating": 4.8,
+      "reviews": 61,
+      "image": "https://i.pinimg.com/736x/73/09/4c/73094c4d08d022fb063a9e6f74f4e2d9.jpg",
+      "description": "A stunning black evening gown with shimmering details. Perfect for parties, receptions, and formal events.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "isFeatured": true
+    },
+    {
+      "name": "Casual White Top & Jeans",
+      "category": "Western Wear",
+      "price": 1999,
+      "oldPrice": 3200,
+      "rating": 4.3,
+      "reviews": 44,
+      "image": "https://i.pinimg.com/1200x/e2/29/ab/e229ab0504b5c3ebf719e359fe2734d2.jpg",
+      "description": "A versatile white crop top paired with classic blue jeans. A go-to outfit for casual outings and everyday style.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "name": "Gold Jhumka Earrings",
+      "category": "Accessories",
+      "price": 699,
+      "oldPrice": 1200,
+      "rating": 4.5,
+      "reviews": 112,
+      "image": "https://i.pinimg.com/1200x/5e/6d/8b/5e6d8b93c697909308bb4372640a921e.jpg",
+      "description": "Traditional gold-plated jhumka earrings with intricate detailing. Lightweight and comfortable for all-day wear.",
+      "sizes": [
+        "Free Size"
+      ],
+      "isNew": true
+    },
+    {
+      "name": "Nepali Dhaka Saree",
+      "category": "Saree",
+      "price": 4299,
+      "oldPrice": 6800,
+      "rating": 4.7,
+      "reviews": 58,
+      "image": "https://i.pinimg.com/736x/ef/35/d8/ef35d88b5818a3d5151983be5f749871.jpg",
+      "description": "Beautiful Nepali Dhaka pattern saree celebrating traditional craftsmanship. A proud symbol of Nepali heritage.",
+      "sizes": [
+        "Free Size"
+      ]
+    },
+    {
+      "name": "Printed A-Line Kurti",
+      "category": "Kurti",
+      "price": 1099,
+      "oldPrice": 1800,
+      "rating": 4.2,
+      "reviews": 73,
+      "image": "https://i.pinimg.com/736x/e6/fe/e9/e6fee9abc52d26389b7da9ccceb6b598.jpg",
+      "description": "Vibrant printed A-line kurti in soft cotton blend. Comfortable, stylish, and perfect for everyday wear.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "name": "Ruffled Blue Gown",
+      "category": "Dresses",
+      "price": 3499,
+      "oldPrice": 5800,
+      "rating": 4.6,
+      "reviews": 39,
+      "image": "https://i.pinimg.com/736x/58/ee/fe/58eefe5783dc619de843e5918f1090bf.jpg",
+      "description": "Elegant ruffled blue gown with a flowing silhouette. Ideal for cocktail parties and evening functions.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "isNew": true
+    },
+    {
+      "name": "Denim Jacket & Jeans Set",
+      "category": "Western Wear",
+      "price": 2999,
+      "oldPrice": 4800,
+      "rating": 4.4,
+      "reviews": 47,
+      "image": "https://i.pinimg.com/736x/d8/6f/1d/d86f1dd57e753e3067c56c6f33f5327d.jpg",
+      "description": "Trendy denim jacket paired with matching jeans. A versatile set that works for any casual occasion.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "name": "Handmade Beaded Necklace",
+      "category": "Accessories",
+      "price": 599,
+      "oldPrice": 999,
+      "rating": 4.3,
+      "reviews": 85,
+      "image": "https://i.pinimg.com/736x/0f/93/1d/0f931d232fde2030767798630678057e.jpg",
+      "description": "Handcrafted beaded necklace made by local Nepali artisans. Each piece is unique and supports fair trade.",
+      "sizes": [
+        "Free Size"
+      ]
+    },
+    {
+      "name": "Golden Evening Gown",
+      "category": "Dresses",
+      "price": 4499,
+      "oldPrice": 7200,
+      "rating": 4.9,
+      "reviews": 54,
+      "image": "https://i.pinimg.com/736x/1c/8d/6f/1c8d6f56fdb4799ed5412acdd9b53611.jpg",
+      "description": "A radiant golden evening gown that makes you shine at any event. Features a flattering fit and premium fabric.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "isFeatured": true,
+      "isNew": true
+    }
+  ]
+}
