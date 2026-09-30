@@ -298,7 +298,7 @@ export default function CheckoutPage() {
                       src={item.product.image}
                       alt={item.product.name}
                       loading="lazy"
-                      className="h-14 w-12 rounded-lg object-cover"
+                      className="h-14 w-12 rounded-lg object-cover object-top"
                     />
                     <div className="flex-1 overflow-hidden">
                       <p className="truncate text-xs font-semibold text-gray-800">

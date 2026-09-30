@@ -76,7 +76,7 @@ export default function ProductDetailsPage({ productId }: ProductDetailsPageProp
               <img
                 src={product.image}
                 alt={product.name}
-                className="aspect-[3/4] w-full object-cover"
+                className="aspect-[3/4] w-full object-cover object-top" 
               />
               {discountPercent > 0 && (
                 <span className="absolute left-4 top-4 rounded-full bg-rose-600 px-3 py-1.5 text-sm font-semibold text-white shadow-md">
