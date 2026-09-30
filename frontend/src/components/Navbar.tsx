@@ -117,7 +117,7 @@ export default function Navbar() {
           ) : (
             <button
               onClick={() => navigate({ name: "login" })}
-              className="hidden rounded-full border border-rose-600 px-4 py-1.5 text-sm font-semibold text-rose-600 transition-colors hover:bg-rose-600 hover:text-white sm:inline-block"
+              className="hidden rounded-full border px-4 py-1.5 text-sm font-semibold text-white transition-colors bg-rose-600 sm:inline-block hover:scale-105 hover:bg-rose-700 "
             >
               Log in
             </button>

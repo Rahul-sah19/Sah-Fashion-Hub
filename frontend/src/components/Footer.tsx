@@ -91,7 +91,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-gray-400">
               <li className="flex items-start gap-2">
                 <MapPin size={16} className="mt-0.5 shrink-0 text-rose-400" />
-                <span>New Road, Kathmandu, Nepal</span>
+                <span>Biratnagar-11 pichara, Nepal</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone size={16} className="shrink-0 text-rose-400" />
@@ -118,7 +118,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 border-t border-gray-800 pt-6 text-center text-xs text-gray-500">
-          <p>&copy; 2026 SAH Fashion Hub. All rights reserved. Made with care in Kathmandu, Nepal.</p>
+          <p>&copy; 2026 SAH Fashion Hub. All rights reserved. Made with care in Biratnagar, Nepal.</p>
         </div>
       </div>
     </footer>
